@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "quant-01",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 12 blue tokens and 4 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "14",
+      "16",
+      "19",
+      "8"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 12 + 4 = 16.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-02",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 15 blue tokens and 5 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "18",
+      "20",
+      "23",
+      "10"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 15 + 5 = 20.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-03",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 18 blue tokens and 6 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "22",
+      "24",
+      "27",
+      "12"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 18 + 6 = 24.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-04",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 21 blue tokens and 7 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "26",
+      "28",
+      "31",
+      "14"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 21 + 7 = 28.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-05",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 24 blue tokens and 8 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "30",
+      "32",
+      "35",
+      "16"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 24 + 8 = 32.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-06",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 27 blue tokens and 9 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "34",
+      "36",
+      "39",
+      "18"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 27 + 9 = 36.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-07",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 30 blue tokens and 10 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "38",
+      "40",
+      "43",
+      "20"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 30 + 10 = 40.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-08",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 33 blue tokens and 11 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "42",
+      "44",
+      "47",
+      "22"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 33 + 11 = 44.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-09",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 36 blue tokens and 12 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "46",
+      "48",
+      "51",
+      "24"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 36 + 12 = 48.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-10",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 39 blue tokens and 13 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "50",
+      "52",
+      "55",
+      "26"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 39 + 13 = 52.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-11",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 42 blue tokens and 14 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "54",
+      "56",
+      "59",
+      "28"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 42 + 14 = 56.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-12",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 45 blue tokens and 15 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "58",
+      "60",
+      "63",
+      "30"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 45 + 15 = 60.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-13",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 48 blue tokens and 16 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "62",
+      "64",
+      "67",
+      "32"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 48 + 16 = 64.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-14",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 51 blue tokens and 17 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "66",
+      "68",
+      "71",
+      "34"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 51 + 17 = 68.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-15",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 54 blue tokens and 18 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "70",
+      "72",
+      "75",
+      "36"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 54 + 18 = 72.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-16",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 57 blue tokens and 19 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "74",
+      "76",
+      "79",
+      "38"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 57 + 19 = 76.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-17",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 60 blue tokens and 20 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "78",
+      "80",
+      "83",
+      "40"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 60 + 20 = 80.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-18",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 63 blue tokens and 21 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "82",
+      "84",
+      "87",
+      "42"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 63 + 21 = 84.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-19",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 66 blue tokens and 22 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "86",
+      "88",
+      "91",
+      "44"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 66 + 22 = 88.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "quant-20",
+    "subject": "Quantitative",
+    "type": "mcq",
+    "front": "A fictional workshop completes 69 blue tokens and 23 green tokens. How many tokens does it complete in total?",
+    "options": [
+      "90",
+      "92",
+      "95",
+      "46"
+    ],
+    "answer": "B",
+    "explanation": "Add the two independent counts: 69 + 23 = 92.",
+    "tags": [
+      "addition",
+      "quantity"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-01",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 1 has a square label. Item K is in Group 1. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-02",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 2 has a square label. Item K is in Group 2. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-03",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 3 has a square label. Item K is in Group 3. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-04",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 4 has a square label. Item K is in Group 4. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-05",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 5 has a square label. Item K is in Group 5. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-06",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 6 has a square label. Item K is in Group 6. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-07",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 7 has a square label. Item K is in Group 7. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-08",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 8 has a square label. Item K is in Group 8. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-09",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 9 has a square label. Item K is in Group 9. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-10",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 10 has a square label. Item K is in Group 10. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-11",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 11 has a square label. Item K is in Group 11. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-12",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 12 has a square label. Item K is in Group 12. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-13",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 13 has a square label. Item K is in Group 13. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-14",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 14 has a square label. Item K is in Group 14. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "logic-15",
+    "subject": "Reasoning",
+    "type": "mcq",
+    "front": "In a fictional sorting system, every item in Group 15 has a square label. Item K is in Group 15. Which conclusion must follow?",
+    "options": [
+      "Item K has a square label.",
+      "Every square-labeled item belongs to this group.",
+      "Item K is the only item in the group.",
+      "Item K has a circular label."
+    ],
+    "answer": "A",
+    "explanation": "Membership in the group implies a square label. The reverse implication and uniqueness are not established.",
+    "tags": [
+      "deduction",
+      "necessary-conclusion"
+    ],
+    "difficulty": 2,
+    "seconds": 75,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-01",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 1: \u201cThe practice room opens at 8:00. The first session lasts 2 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "8:00",
+      "11:00",
+      "10:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 8:00 and lasts 2 hours, so the break starts at 10:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-02",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 2: \u201cThe practice room opens at 9:00. The first session lasts 3 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "9:00",
+      "13:00",
+      "12:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 9:00 and lasts 3 hours, so the break starts at 12:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-03",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 3: \u201cThe practice room opens at 10:00. The first session lasts 4 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "10:00",
+      "15:00",
+      "14:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 10:00 and lasts 4 hours, so the break starts at 14:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-04",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 4: \u201cThe practice room opens at 11:00. The first session lasts 2 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "11:00",
+      "14:00",
+      "13:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 11:00 and lasts 2 hours, so the break starts at 13:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-05",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 5: \u201cThe practice room opens at 8:00. The first session lasts 3 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "8:00",
+      "12:00",
+      "11:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 8:00 and lasts 3 hours, so the break starts at 11:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-06",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 6: \u201cThe practice room opens at 9:00. The first session lasts 4 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "9:00",
+      "14:00",
+      "13:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 9:00 and lasts 4 hours, so the break starts at 13:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-07",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 7: \u201cThe practice room opens at 10:00. The first session lasts 2 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "10:00",
+      "13:00",
+      "12:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 10:00 and lasts 2 hours, so the break starts at 12:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-08",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 8: \u201cThe practice room opens at 11:00. The first session lasts 3 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "11:00",
+      "15:00",
+      "14:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 11:00 and lasts 3 hours, so the break starts at 14:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-09",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 9: \u201cThe practice room opens at 8:00. The first session lasts 4 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "8:00",
+      "13:00",
+      "12:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 8:00 and lasts 4 hours, so the break starts at 12:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-10",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 10: \u201cThe practice room opens at 9:00. The first session lasts 2 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "9:00",
+      "12:00",
+      "11:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 9:00 and lasts 2 hours, so the break starts at 11:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-11",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 11: \u201cThe practice room opens at 10:00. The first session lasts 3 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "10:00",
+      "14:00",
+      "13:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 10:00 and lasts 3 hours, so the break starts at 13:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-12",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 12: \u201cThe practice room opens at 11:00. The first session lasts 4 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "11:00",
+      "16:00",
+      "15:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 11:00 and lasts 4 hours, so the break starts at 15:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-13",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 13: \u201cThe practice room opens at 8:00. The first session lasts 2 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "8:00",
+      "11:00",
+      "10:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 8:00 and lasts 2 hours, so the break starts at 10:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-14",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 14: \u201cThe practice room opens at 9:00. The first session lasts 3 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "9:00",
+      "13:00",
+      "12:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 9:00 and lasts 3 hours, so the break starts at 12:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  },
+  {
+    "id": "reading-15",
+    "subject": "Reading",
+    "type": "mcq",
+    "front": "Fictional notice 15: \u201cThe practice room opens at 10:00. The first session lasts 4 hours. A break starts immediately after that session.\u201d According to the notice, when does the break start?",
+    "options": [
+      "10:00",
+      "15:00",
+      "14:00",
+      "The notice does not say."
+    ],
+    "answer": "C",
+    "explanation": "The session starts at 10:00 and lasts 4 hours, so the break starts at 14:00.",
+    "tags": [
+      "explicit-information",
+      "time"
+    ],
+    "difficulty": 1,
+    "seconds": 60,
+    "source": "Original fictional practice question"
+  }
+]

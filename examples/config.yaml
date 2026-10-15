@@ -1,0 +1,4 @@
+data_dir: ../data/private
+timezone: Asia/Shanghai
+algorithm: fsrs
+retention: 0.9
