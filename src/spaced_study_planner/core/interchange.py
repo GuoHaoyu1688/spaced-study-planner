@@ -11,8 +11,10 @@ import re
 import sqlite3
 import tempfile
 import zipfile
+from contextlib import contextmanager
 from datetime import date, datetime
 from pathlib import Path
+from threading import RLock
 
 from fsrs import Card
 
@@ -31,6 +33,19 @@ TABLES = [
     "availability",
     "metadata",
 ]
+SNAPSHOT_IMPORT_BYTES = 150_000_000
+_CSV_LOCK = RLock()
+
+
+@contextmanager
+def _csv_field_limit():
+    """Allow embedded assets within the snapshot's existing 150 MB file cap."""
+    with _CSV_LOCK:
+        previous = csv.field_size_limit(SNAPSHOT_IMPORT_BYTES)
+        try:
+            yield
+        finally:
+            csv.field_size_limit(previous)
 
 
 def _check(condition, message):
@@ -418,11 +433,11 @@ def import_library(store, path):
     import hashlib
 
     path = Path(path)
-    if path.stat().st_size > 150_000_000:
+    if path.stat().st_size > SNAPSHOT_IMPORT_BYTES:
         raise StudyError("Snapshot exceeds 150 MB")
     if path.suffix.lower() == ".csv":
         data = {"schema_version": 1, "records": {key: [] for key in TABLES}, "assets": {}}
-        with path.open(encoding="utf-8-sig", newline="") as stream:
+        with _csv_field_limit(), path.open(encoding="utf-8-sig", newline="") as stream:
             for row in csv.DictReader(stream):
                 value = json.loads(row["data"])
                 if row["record_type"] == "asset":

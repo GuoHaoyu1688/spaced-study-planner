@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 2026-10-15
+
+- Restore native CSV libraries containing large local images with bounded parser limits and atomic validation.
+
 ## 0.1.0 — 2026-10-15
 
 - Added local weighted exam planning with calendar capacity, stable phases, and workload warnings.

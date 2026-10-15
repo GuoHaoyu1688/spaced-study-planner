@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "spaced-study-planner"
-version = "0.1.0"
+version = "0.1.1"
 description = "Offline exam plans, FSRS reviews, practice sessions, and local study analytics"
 requires-python = ">=3.11"
 license = "MIT"

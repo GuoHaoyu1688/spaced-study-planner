@@ -5,7 +5,7 @@ Measured on 2026-10-15 with Python 3.12.13 on macOS. Examples and screenshots co
 | Check | Observed result |
 | --- | --- |
 | Ruff lint and formatting | Passed |
-| Pytest | 67 passed; 93% measured overall coverage |
+| Pytest | 70 passed; 93% measured overall coverage |
 | FSRS reference sequences | Two five-rating sequences at each of 0.8, 0.9, 0.95 retention; exact card-state and due-date agreement with official fsrs 6.3.2 configured identically |
 | SM-2 hand arithmetic | Good intervals 1, 6, 15 days at ease 2.5; Again resets interval to 1 and ease to 1.96; Easy adjusts ease to 2.06 |
 | Full 50-question mock | 40 correct and 10 incorrect = 80%; subject times sum to 1,500 seconds |
@@ -15,6 +15,7 @@ Measured on 2026-10-15 with Python 3.12.13 on macOS. Examples and screenshots co
 | Import and restore | JSON/CSV library state and local image bytes round-trip; conflicting batches roll back; legacy APKG, Markdown, MathText, and local images exercised |
 | Safety boundaries | Unsupported modern APKG rejected; image escape and corrupted asset archives rejected; raw HTML escaped; loopback host/origin checks exercised |
 | Independent audit regressions | 502-item selection and exact offline plan caching; 31 malformed snapshot variants rejected before commit; full FSRS/SM-2 history roundtrips; reference-style remote images rejected |
+| Large CSV assets | A 197,174-byte generated PNG roundtrips with matching hash; malformed large rows roll back and parser limits restore; original file cap retained |
 | MCP | All five tools via official SDK plus actual stdio client initialization and calls |
 | CLI quick start | Fresh seed gives 50 questions and 3 cards; today/review/answer/stats/forecast/availability/plan/mock/export/import/backup exercised |
 | Browser functional check | Today's 29 selected items cached; offline reload succeeded; one offline answer synced exactly once; repeating sync did not add a review |
